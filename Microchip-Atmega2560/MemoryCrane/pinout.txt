@@ -1,0 +1,14 @@
+crane connections to controller:
+
+CW button = PORTA.0
+CCW button = PORTA.1
+home switch = red wire to PORTA.2, black to ground
+
+stepper motor:
++ and - pins to the board power
+IN1 = PORTC.0
+IN2 = PORTC.1
+IN3 = PORTC.2
+IN4 = PORTC.3
+
+
